@@ -1,0 +1,1 @@
+Place screenshots or static assets here if you want to customize the portfolio project.
